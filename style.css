@@ -78,7 +78,7 @@ height: 42px;
    
     font-size: 1rem;
     
-    background:url(images/img/search.svg);
+    background:url(icons/search.svg);
     background-repeat: no-repeat;
     background-position:right center;
     align-items: center;
@@ -107,7 +107,7 @@ nav button{
         border-radius: 4px;
 }
  header.hero {
-        background-image: url(images/G7.png); 
+        background-image: url(icons/G7.png); 
 
         background-repeat: no-repeat;
         overflow: hidden;
@@ -632,7 +632,7 @@ section .client {
       .imgs{
  height: 80vh;
    width: 100%;
-    background:url(images/g7.jpg);
+    background:url(icons/g7.jpg);
    background-size: cover;
     background-repeat: no-repeat; 
    background-size: cover;
@@ -741,7 +741,7 @@ section .formm{
   justify-content: center;
   align-items: center;
   padding: 5px;
-background:  url(images/g9.jpg); 
+background:  url(icons/g9.jpg); 
     background-size: cover;
     background-blend-mode: screen;
   
@@ -926,7 +926,7 @@ footer{
 
 height: 593px;
 
-       background:  url(images/g8.jpg);   
+       background:  url(icons/g8.jpg);   
         
          background-repeat: no-repeat;
         overflow: hidden;
