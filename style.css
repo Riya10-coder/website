@@ -632,7 +632,7 @@ section .client {
       .imgs{
  height: 80vh;
    width: 100%;
-    background:url(icons/g7.webp);
+    background:url(icons/g7.jpg);
    background-size: cover;
     background-repeat: no-repeat; 
    background-size: cover;
